@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/repairform/controller/RepairFormServlet.java=UTF-8
+encoding//src/com/repairform/model/RepairFormDAO.java=UTF-8
+encoding//src/com/repairform/model/RepairFormDAO_interface.java=UTF-8
+encoding//src/com/repairform/model/RepairFormJDBCDAO.java=UTF-8
+encoding//src/com/repairform/model/RepairFormService.java=UTF-8
+encoding//src/com/repairform/model/RepairFormVO.java=UTF-8
